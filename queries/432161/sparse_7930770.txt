@@ -1,0 +1,12 @@
+charact:1
+posit:1
+world:1
+_num_:4
+mean:1
+person:1
+popul:1
+rare:1
+name:1
+rank:1
+ismat:2
+estim:1

@@ -1,0 +1,14 @@
+england:2
+solstice.olstic:1
+southern:2
+side:2
+vice:2
+winter:2
+northern:2
+opposit:2
+summer:4
+stoneheng:2
+solstic:6
+equat:2
+hemispher:4
+versa:2

@@ -1,0 +1,12 @@
+firm:1
+mind:1
+irresolut:1
+_num_:3
+origin:1
+vacil:1
+show:2
+mental:2
+feebl:1
+foolish:1
+lack:1
+weak:1

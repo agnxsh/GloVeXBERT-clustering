@@ -1,0 +1,17 @@
+swedish:1
+spanish:1
+russian:1
+south:1
+thai:1
+tanzanian:1
+scottish:1
+serbian:1
+vietnames:1
+scandinavian:1
+ugandan:1
+african:1
+mean:15
+turkish:1
+slovakian:1
+portugues:1
+swahili:1

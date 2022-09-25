@@ -1,0 +1,14 @@
+boston:1
+insan:1
+mind:1
+idiot:1
+medfield:2
+copi:6
+asylum:1
+youth:1
+p.o:1
+massachusett:1
+school:1
+_num_:28
+palmer:1
+feebl:1

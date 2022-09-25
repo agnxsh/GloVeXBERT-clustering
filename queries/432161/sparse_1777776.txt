@@ -1,0 +1,9 @@
+dexter:10
+mean:14
+babi:5
+english:5
+surnam:4
+american:6
+latin:3
+dyer:4
+handed.right.nglish:1

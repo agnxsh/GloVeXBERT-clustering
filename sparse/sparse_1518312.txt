@@ -1,0 +1,17 @@
+amount:1
+game:1
+gambl:1
+ticket:3
+i.:1
+chees:1
+dispens:1
+prize:1
+point:2
+plai:2
+result:1
+ski:2
+ball:2
+fix:1
+_num_:4
+chuck:1
+nj:1

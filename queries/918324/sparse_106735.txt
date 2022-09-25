@@ -1,0 +1,12 @@
+coupl:2
+tv:6
+_num_:6
+commerci:3
+show:2
+season:4
+free:4
+hulu.com:2
+seri:2
+internet:2
+commercials.h:1
+episod:2

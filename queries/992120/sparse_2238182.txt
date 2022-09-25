@@ -1,0 +1,15 @@
+mind:1
+select:1
+expens:1
+institut:1
+reduc:1
+mainten:1
+greatli:1
+earli:1
+goddard:1
+carefulli:1
+children:1
+_num_:3
+feebl:1
+support:1
+train:1

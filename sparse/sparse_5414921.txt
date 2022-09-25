@@ -1,0 +1,16 @@
+bed:1
+coupl:2
+tv:1
+johnni:2
+show:1
+air:1
+real:1
+life:1
+network:1
+dumont:1
+kai:2
+_num_:1
+stearn:1
+record:1
+mari:2
+marri:1

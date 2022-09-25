@@ -1,0 +1,12 @@
+cancel:1
+give:4
+moon:6
+select:1
+rate:1
+solstic:6
+_num_:12
+winter:6
+ratingg:1
+averag:1
+vote:1
+full:6

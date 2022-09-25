@@ -1,0 +1,14 @@
+year.h:1
+southern:2
+longest:2
+year:3
+winter:2
+northern:2
+dai:4
+summer:2
+call:2
+solstic:6
+_num_:8
+decemb:4
+hemispher:4
+shortest:2

@@ -1,0 +1,16 @@
+greek:3
+satisfaction.greek:1
+elisheba:3
+babi:5
+american:2
+hebrew:5
+name.in:1
+scottish:6
+satisfact:2
+elsi:11
+oath:3
+bounti:2
+mean:15
+nobl:1
+plenti:2
+god:10

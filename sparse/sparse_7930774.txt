@@ -1,0 +1,14 @@
+note:1
+spell:1
+initi:1
+origin:1
+sound:1
+check:1
+ismat:2
+databas:1
+comprehens:1
+search:1
+find:1
+mean:1
+pronunci:1
+discov:1

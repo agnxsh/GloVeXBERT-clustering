@@ -1,0 +1,17 @@
+afghan:1
+belgian:1
+australian:1
+canadian:1
+albanian:1
+american:2
+armenian:1
+basqu:1
+arabian:1
+catalan:1
+african:2
+mean:15
+cambodian:1
+name:1
+botswanan:1
+biblic:1
+bulgarian:1

@@ -1,0 +1,13 @@
+tv:8
+ratings.se:1
+year:8
+rundown:4
+show:8
+list:2
+top:7
+rate:2
+_num_:20
+ratings.op:1
+time:4
+user:4
+full:2

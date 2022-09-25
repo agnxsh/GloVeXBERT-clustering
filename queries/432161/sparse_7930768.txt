@@ -1,0 +1,9 @@
+mat:1
+mean:1
+isam:1
+origin:1
+relat:1
+ismat:2
+protect:1
+boi:1
+arab:1

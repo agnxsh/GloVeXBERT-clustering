@@ -1,0 +1,12 @@
+special:2
+award:2
+monei:2
+fund:4
+year:2
+_num_:11
+main:2
+nobel:5
+section:2
+alloc:2
+prize:9
+literatur:3

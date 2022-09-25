@@ -1,0 +1,9 @@
+cancel:1
+give:4
+select:1
+rate:1
+solstic:5
+_num_:15
+winter:10
+ratingg:1
+dai:5

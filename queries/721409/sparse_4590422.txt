@@ -1,0 +1,17 @@
+date:1
+mileag:2
+van:3
+year:2
+fuel:3
+passeng:1
+compani:6
+tax:2
+charg:1
+advisori:1
+calcul:1
+car:7
+rate:3
+_num_:12
+payment:1
+present:1
+approv:2

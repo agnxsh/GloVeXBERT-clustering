@@ -1,0 +1,17 @@
+middl:1
+mileag:4
+mind:1
+vehicl:1
+thumb:1
+year:3
+mile:2
+rule:1
+high:1
+consid:2
+car:4
+low:1
+_num_:12
+itâ:2
+bracket:1
+averag:1
+drive:1

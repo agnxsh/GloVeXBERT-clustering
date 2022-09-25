@@ -1,0 +1,15 @@
+german:7
+nobil:3
+pleasant:2
+babi:7
+american:3
+athal:1
+nobility.nobl:1
+noble.latin:1
+noble.n:1
+mean:15
+teuton:4
+nobl:3
+adelin:15
+latin:5
+french:2

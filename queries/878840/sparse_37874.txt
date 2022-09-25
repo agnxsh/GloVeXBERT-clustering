@@ -1,0 +1,10 @@
+southern:2
+â:1
+june:2
+solstic:5
+year:1
+winter:2
+decemb:2
+northern:2
+summer:2
+hemispher:4

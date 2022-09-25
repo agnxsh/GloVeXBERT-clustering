@@ -1,0 +1,16 @@
+southern:2
+longest:2
+year:4
+winter:2
+northern:4
+dai:4
+summer:2
+sunlight:4
+solstic:6
+_num_:1
+hemispsher:2
+decemb:2
+term:4
+mark:2
+hemispher:4
+shortest:2

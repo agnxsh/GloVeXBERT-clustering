@@ -1,0 +1,15 @@
+mileag:2
+manufactur:2
+year:2
+mile:2
+long:2
+norm:2
+consid:4
+commut:2
+car:4
+due:2
+fine:2
+_num_:12
+distanc:2
+driven:4
+averag:2

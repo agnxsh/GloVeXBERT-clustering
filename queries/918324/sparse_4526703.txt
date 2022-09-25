@@ -1,0 +1,13 @@
+carson:3
+tv:9
+â:14
+show:9
+jim:2
+bowi:2
+adventur:9
+kit:3
+cyclon:1
+malon:1
+page:5
+western:9
+champion:3

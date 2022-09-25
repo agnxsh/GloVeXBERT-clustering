@@ -1,0 +1,16 @@
+calendar:2
+â:2
+winter:7
+northern:1
+long:2
+spring:2
+month:2
+solstic:3
+_num_:4
+offici:2
+decemb:1
+end:2
+approxim:2
+equinox:1
+begin:2
+hemispher:1

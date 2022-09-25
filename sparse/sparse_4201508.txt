@@ -1,0 +1,15 @@
+bed:3
+coupl:1
+featur:1
+johnni:1
+show:2
+sleepin:1
+ozzi:1
+call:1
+kai:1
+earlier:1
+harriet:1
+mari:1
+marri:1
+sitcom:2
+coupleâ:1

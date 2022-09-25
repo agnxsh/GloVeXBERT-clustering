@@ -1,0 +1,14 @@
+mantra:1
+ceremoni:2
+sacr:2
+winter:3
+align:2
+spiritu:2
+ancient:2
+summer:2
+spring:4
+site:2
+solstic:5
+mean:2
+celebr:3
+equinox:4

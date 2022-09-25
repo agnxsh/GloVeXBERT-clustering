@@ -1,0 +1,17 @@
+chines:1
+danish:1
+belgian:1
+canadian:1
+czechian:1
+basqu:1
+catalan:1
+croatian:1
+cuban:1
+celtic:1
+cypriot:1
+mean:16
+cambodian:1
+botswanan:1
+biblic:1
+bulgarian:1
+dominican:1

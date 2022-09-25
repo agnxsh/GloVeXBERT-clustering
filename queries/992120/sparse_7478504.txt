@@ -1,0 +1,16 @@
+mind:3
+â:1
+intellectu:1
+want:1
+intellig:1
+lack:1
+weak:1
+firm:1
+irresolut:1
+superl:1
+constanc:1
+vacil:1
+power:1
+feebl:3
+imbecil:1
+compar:1

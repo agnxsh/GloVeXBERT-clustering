@@ -1,0 +1,14 @@
+mileag:6
+amount:2
+shape:2
+deliv:2
+reduc:2
+effici:2
+car:4
+_num_:5
+trips.a:1
+combin:1
+ga:7
+tip:6
+drive:2
+plan:1

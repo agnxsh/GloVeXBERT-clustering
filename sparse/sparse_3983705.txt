@@ -1,0 +1,17 @@
+add:1
+confid:1
+mileag:2
+amount:2
+it.onfid:1
+year:4
+mile:5
+worth:2
+less.on:1
+consid:2
+car:6
+_num_:11
+math:2
+value.exampl:1
+averag:3
+vote:2
+hand:1

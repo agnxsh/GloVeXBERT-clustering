@@ -1,0 +1,11 @@
+eu:4
+countri:1
+monei:2
+pore:1
+european:1
+spend:1
+spent:1
+pai:2
+union:1
+brussel:1
+budget:3

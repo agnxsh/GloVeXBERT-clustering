@@ -1,0 +1,16 @@
+southern:1
+signific:1
+cultur:1
+year:1
+astronom:1
+winter:2
+tradit:1
+northern:2
+dai:2
+summer:1
+solstic:6
+religi:1
+decemb:3
+holidai:1
+hemispher:3
+shortest:1

@@ -1,0 +1,16 @@
+big:1
+engin:1
+mileag:4
+bad:1
+truck:1
+wrong:1
+capac:1
+car:7
+suv:1
+bui:1
+know:1
+ga:4
+huge:1
+worst:2
+avoid:1
+order:1

@@ -1,0 +1,15 @@
+love:4
+elag:1
+suggest:2
+good:2
+food:4
+malayalam:1
+mean:17
+men:2
+hindi:2
+rabic:1
+anish:4
+god:2
+word:7
+arab:7
+ish:4

@@ -1,0 +1,11 @@
+date:1
+southern:2
+june:4
+hemisphere.th:1
+solstic:6
+vari:1
+_num_:2
+winter:2
+northern:2
+summer:2
+hemispher:3

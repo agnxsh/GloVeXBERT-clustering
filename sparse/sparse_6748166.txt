@@ -1,0 +1,15 @@
+rome:2
+spanish:3
+rome.n:1
+strong:2
+russian:3
+roman:16
+babi:7
+american:3
+roman.bibl:1
+rome.russian:1
+mean:15
+biblic:5
+latin:6
+man:2
+power:2

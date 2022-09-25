@@ -1,0 +1,14 @@
+date:1
+southern:2
+longest:1
+year:1
+winter:2
+northern:2
+dai:1
+summer:2
+june:5
+solstic:7
+vari:1
+_num_:2
+hemispher:4
+shortest:1

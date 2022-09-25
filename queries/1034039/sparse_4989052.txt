@@ -1,0 +1,12 @@
+eu:8
+read:2
+size:2
+uk:7
+convers:2
+check:2
+complet:2
+uk.e:1
+chart:4
+easi:2
+shoe:2
+women:2

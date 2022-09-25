@@ -1,0 +1,16 @@
+deduct:2
+standard:3
+mileag:3
+purpos:1
+cost:3
+expens:1
+cent:1
+drove:1
+mile:6
+busi:2
+figur:2
+car:5
+mile.h:1
+rate:3
+_num_:24
+oper:2

@@ -1,0 +1,17 @@
+wisconsin:2
+mind:1
+chippewa:1
+institut:1
+northern:1
+home:1
+renam:1
+found:1
+coloni:1
+fall:1
+includ:1
+school:1
+_num_:2
+chang:1
+time:1
+feebl:1
+train:1

@@ -1,0 +1,17 @@
+greek:1
+indonesian:1
+german:1
+irish:1
+isra:1
+iceland:1
+hebrew:1
+italian:1
+hungarian:1
+finnish:1
+gaelic:1
+jamaican:1
+hindu:1
+mean:16
+french:1
+indian:1
+hawaiian:1

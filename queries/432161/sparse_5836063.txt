@@ -1,0 +1,12 @@
+charlen:9
+ceorl:1
+charl:4
+mean:14
+man.n:1
+babi:4
+english:3
+manly.english:1
+american:6
+manli:3
+feminin:4
+french:4

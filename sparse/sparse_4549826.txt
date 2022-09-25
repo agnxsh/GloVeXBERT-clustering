@@ -1,0 +1,17 @@
+bed:2
+recogn:1
+coupl:1
+evid:1
+inform:1
+correct:1
+munster:3
+lili:1
+concret:1
+slab:1
+sleep:1
+answer:1
+marri:1
+true:1
+herman:1
+human:3
+alter:1

@@ -1,0 +1,14 @@
+bed:3
+coupl:1
+unmarri:1
+show:1
+separ:1
+theori:1
+network:1
+peopl:1
+actor:1
+sanction:1
+marri:2
+portrai:1
+power:1
+promot:1

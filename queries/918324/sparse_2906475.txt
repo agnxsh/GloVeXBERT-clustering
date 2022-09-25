@@ -1,0 +1,13 @@
+bed:4
+parent:1
+coupl:1
+week:1
+night:2
+part:1
+babi:3
+bring:1
+sleep:3
+common:1
+major:1
+share:2
+adult:1

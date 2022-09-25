@@ -1,0 +1,16 @@
+astronom:1
+todai:1
+infrar:1
+winter:5
+visibl:1
+meteosat:1
+dai:2
+enhanc:1
+eumetsat:1
+solstic:3
+_num_:3
+spin:1
+imag:1
+thing:1
+mark:1
+seviri:1

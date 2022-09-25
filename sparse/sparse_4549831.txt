@@ -1,0 +1,17 @@
+bed:2
+tt:1
+coupl:1
+sourc:1
+tv:1
+question:1
+bottom:1
+show:4
+sleep:1
+_num_:1
+flintston:1
+http:1
+www.imdb.com:1
+page:1
+titl:1
+anim:1
+triv:1

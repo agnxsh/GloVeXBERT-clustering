@@ -1,0 +1,14 @@
+mind:2
+sensual:1
+pass:1
+whistl:1
+rememb:1
+ignor:1
+acut:1
+face:1
+music:1
+sing:1
+feebl:2
+consciou:1
+word:1
+feminin:1

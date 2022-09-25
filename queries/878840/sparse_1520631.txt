@@ -1,0 +1,17 @@
+southern:1
+south:1
+year:1
+north:1
+winter:5
+farthest:2
+northern:1
+dai:3
+sun:2
+summer:1
+solstic:4
+_num_:1
+season:1
+decemb:1
+exchang:1
+mark:1
+hemispher:2

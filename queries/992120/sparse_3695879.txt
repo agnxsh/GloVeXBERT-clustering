@@ -1,0 +1,15 @@
+mind:2
+captiou:1
+disput:1
+king:1
+vigor:1
+want:1
+lack:1
+weak:2
+magistr:1
+discern:1
+temper:1
+spiritless:1
+proof:1
+feebl:1
+thing:1

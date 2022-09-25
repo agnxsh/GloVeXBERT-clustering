@@ -1,0 +1,16 @@
+employ:1
+inmat:1
+applic:1
+mind:1
+michigan:1
+year:1
+novemb:1
+home:1
+june:1
+epilept:1
+femal:1
+prior:1
+_num_:5
+feebl:1
+male:1
+open:2

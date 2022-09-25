@@ -1,0 +1,16 @@
+swedish:2
+spanish:2
+lady.swedish:1
+marta:17
+arama:4
+babi:9
+ladi:1
+american:6
+bitter.arama:1
+name.in:1
+bitter:3
+scandinavian:3
+lady.h:1
+mean:15
+polish:4
+lady.spanish:1

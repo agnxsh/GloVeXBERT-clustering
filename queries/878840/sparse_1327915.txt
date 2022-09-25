@@ -1,0 +1,14 @@
+ceremoni:4
+sacr:4
+winter:2
+align:4
+spiritu:3
+ancient:4
+summer:4
+spring:4
+site:4
+solstic:6
+mean:3
+celebr:4
+autumn:4
+equinox:8

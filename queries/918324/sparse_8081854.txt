@@ -1,0 +1,17 @@
+bed:5
+coupl:1
+individu:1
+prefer:1
+room:2
+fit:2
+sleep:1
+impli:1
+_num_:3
+person:1
+extra:1
+marri:1
+singl:4
+share:1
+adult:1
+twin:1
+typic:1
