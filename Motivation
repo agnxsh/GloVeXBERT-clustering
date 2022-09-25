@@ -1,0 +1,1 @@
+Relevant algorithms and techniques to cluster GloVe vectors (consisting 840B words and 300 dimensional vectors) by Stanford NLP and concat them with BERT vectors of corresponding words scrapped from the internet 
